@@ -1,5 +1,5 @@
 # Domoticz Python Plugin for WeMo Switch (by Belkin)
-# Fork from https://github.com/milanvo/domoticz-plugins
+Fork from https://github.com/milanvo/domoticz-plugins
 
 ## Features
 - Domoticz Switch device for WeMo
